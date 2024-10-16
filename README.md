@@ -1,5 +1,9 @@
 # Rush5 Project
 
+## Dashboard Looker 
+Un dashbord looker studio à été créé pour avoir une meilleure vision des données
+https://lookerstudio.google.com/s/teCsp76ilU0
+
 ## Description
 
 Ce projet traite de l'analyse des données client d'une entreprise, avec un focus sur plusieurs aspects :
